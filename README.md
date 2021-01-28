@@ -44,6 +44,3 @@ rustc 1.49.0 (e1884a8e3 2020-12-29)
 ## License
 
 This crate is distributed under the terms of the [MIT license](./LICENSE).
-
-update for testing
-
